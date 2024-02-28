@@ -39,7 +39,7 @@ ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
 text-align: center;
 position: relative;
 }
-info-container {
+.info-container {
 height: 100%;
 display: flex;
 flex-direction: column;
@@ -71,7 +71,7 @@ max-width: 65ch;
 font-weight: 200;
 margin-top: 0.50rem;
 }
-background-div {
+.background-div {
 background-color: #ecebe8;
 width: 100%;
 height: 56vh;
